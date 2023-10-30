@@ -10,12 +10,12 @@
   - [License](#licenses🔍)
 
 ## Description📝
-My personal software developer website serves as a comprehensive platform highlighting my diverse array of technical skills, personal web applications, a detailed work history. This meticulously designed website showcases my proficiency in software development, encompassing a wide range of programming languages, tools, and frameworks. Furthermore, it presents a portfolio of web applications I've developed, demonstrating my practical experience and problem-solving abilities. To facilitate communication and collaboration, the website offers various methods to get in touch with me, ensuring a seamless connection for potential opportunities.
+The SVG Logo maker enables a user to quickly create a SVG file that represent the logo they want to create.
 
 ## Installation💻
 The Generator may be downloaded using github and used by a source code editor of your choice, like Visual Studio Code to run the program.
 - [Live Demo Link](https://github.com/JMorante89/SVG-Logo-Maker-Project)
-- [Video Tutorial Link]()
+- [Video Tutorial Link](https://drive.google.com/file/d/17LhQnMTTMBezliYx6r-GcIHd51xs4fnN/view?usp=sharing)
 
 ## Usage👨‍💻
 
